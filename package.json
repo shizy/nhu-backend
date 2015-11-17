@@ -1,0 +1,19 @@
+{
+  "name": "nhubackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-quickbooks": "^1.0.25",
+    "request": "^2.65.0"
+  },
+  "jshintConfig": {
+      "esnext": true
+  }
+}
